@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Poliedro",
+    "classifications": [ "Common", "Api" ],
+    "identity": "Poliedro-ddd",
+    "name": "Poliedro DDD",
+    "shortName": "poliedro-ddd",
+    "sourceName":"ddd",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }
